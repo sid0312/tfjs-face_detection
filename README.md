@@ -31,3 +31,7 @@ C:\Users\username\tfjs-face_detection> index.html
 ```
 ## Allow access to the browser and wait for a few seconds
 
+# Results
+<p align='center'>
+  <img src="results/trial.gif"
+  </p>
