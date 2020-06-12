@@ -5,11 +5,6 @@ Face detection with webcam on browser using tensorflow.js
 
 ## For linux users
 
-<p align='center'>
-  <img src="
-https://lucais2swag4electronics.files.wordpress.com/2014/11/914d3-pinguino.gif?w=640">
-  </p>
-  
 ```console
 user@username:~$ git clone https://github.com/sid0312/tfjs-face_detection
 Cloning into 'tfjs-face_detection'...
@@ -23,12 +18,6 @@ user@username:~$ cd tfjs-face_detection
 user@username:~/tfjs-face_detection$ google-chrome index.html
 ```
 ## For windows users
-
-<p align='center'>
-  <img src="
-https://cutewallpaper.org/21/windows-animation-gif/Best-Windows-Animation-GIFs-Gfycat.gif">
-  </p>
-  
   
 ```shell
 C:\Users\username> git clone https://github.com/sid0312/tfjs-face_detection
