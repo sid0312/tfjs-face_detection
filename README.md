@@ -1,4 +1,4 @@
-# tfjs-face_detection
+# Face Detection on the browser using Tensorflow.js
 Face detection with webcam on browser using tensorflow.js
 
 ## To run the project,
