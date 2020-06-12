@@ -17,7 +17,7 @@ user@username:~$ cd tfjs-face_detection
 user@username:~/tfjs-face_detection$ google-chrome index.html
 ```
 ### For windows users
-```cmd
+```shell
 C:\Users\username> git clone https://github.com/sid0312/tfjs-face_detection
 Cloning into 'tfjs-face_detection'...
 remote: Enumerating objects: 10, done.
