@@ -35,5 +35,5 @@ C:\Users\username\tfjs-face_detection> index.html
 
 # Results
 <p align='center'>
-  <img src="results/trial.gif">
+  <img src="results/t1.gif">
   </p>
