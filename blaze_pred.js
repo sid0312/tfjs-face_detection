@@ -1,3 +1,4 @@
+let model;
 (function() {
     var canvas = document.getElementById('canvas'),
         context = canvas.getContext('2d'),
@@ -23,7 +24,7 @@
     async function draw(video,context, width, height)
     {
         context.drawImage(video,0,0,width,height);
-        const model = await blazeface.load();
+        if(!model) model = await blazeface.load();
         const returnTensors = false;
         const predictions = await model.estimateFaces(video, returnTensors);
           if (predictions.length > 0)
@@ -50,3 +51,4 @@
         setTimeout(draw,250,video,context,width,height);
     }
 })();
+
