@@ -17,9 +17,3 @@ C:\Users\username> git clone https://github.com/sid0312/tfjs-face_detection
 C:\Users\username> cd tfjs-face_detection
 C:\Users\username\tfjs-face_detection> index.html
 ```
-<strong> Allow access to the browser and wait for a few seconds </strong>
-
-# Results
-<p align='center'>
-  <img src="results/t1.gif">
-  </p>
